@@ -11,23 +11,7 @@ Created on Wed Nov 14 10:09:38 2018
 # coding: utf-8
 
 '''
-**********************************************************************************************************************************************************************************
-    
-    README :
-    
-    Ensure you download GameZip_PriyankaChaudhari.zip and extract it to GameZip_PriyankaChaudhari directory
-    Ensure GameZip_PriyankaChaudhari directory contains following files and directories:
-        
-        
-        GameZip_PriyankaChaudhari/
-            |
-            |---Game_PriyankaChaudhari.py
-            |
-            |---options/
-            |
-            |---snape_sirius.jpg            
-            
-            
+**********************************************************************************************************************************************************************************            
 **********************************************************************************************************************************************************************************
 
 Game Name : 5Ws of Wizarding World !
@@ -63,9 +47,6 @@ A)	INTRODUCTION
         
         Off you go now!
         
-
-B)	Known bugs and / or Errors: None
-
     
 
 “ “ “
